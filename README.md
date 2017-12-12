@@ -1,6 +1,4 @@
-![alt text](http://www.doc.gold.ac.uk/~spark041/Sound_Control/gif2.gif)
-
-![alt text](/logos/gif2.gif?raw=true "Optional Title")
+![alt text](/logos/gif2.gif?raw=true "Title")
 
 # SoundControl
 
@@ -36,3 +34,7 @@ https://forge.ircam.fr/p/leapmotion/
 The app automatically sets it’s audio I/O to whatever the I/O settings of the Max.app are. If you want to change these you must close the Sound Control app, set the desired audio I/O settings in the Max.app and then reopen Sound Control. However you can then change the audio I/O settings for the Max.app and not change the Sound Control audio I/O settings after the Sound Control app has been opened.
 
 The colour tracker does not work with more than 2 input devices.
+
+![alt text](/logos/NMPAT_long.jpg?raw=true “Logo1”)
+![alt text](/logos/pfh.jpg?raw=true "Logo2”)
+![alt text](/logos/Youth_Music.jpg?raw=true "Logo3”)
