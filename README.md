@@ -35,6 +35,8 @@ The app automatically sets it’s audio I/O to whatever the I/O settings of the 
 
 The colour tracker does not work with more than 2 input devices.
 
+If you hold down the mouse on the record button, move off the record button, release the mouse, the record button stays on.
+
 ![alt text](/logos/NMPAT_long.jpg?raw=true "Logo1")
 ![alt text](/logos/pfh.jpg?raw=true "Logo2")
 ![alt text](/logos/Youth_Music.jpg?raw=true "Logo3")
